@@ -1,0 +1,11 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.blueViolet{
+    background-color: blueviolet;
+}
+
+.concluido{
+    text-decoration: line-through;
+}
