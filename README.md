@@ -1,5 +1,5 @@
 # to-do-list
-[Teste o projeto aqui](https://devvitorsilva.github.io/todolist/)
+[Teste o projeto aqui](https://devvitorsilva.github.io/toDoList/)
 
 To-do list sem conexão com banco de dados.
 
